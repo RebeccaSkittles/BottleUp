@@ -1,0 +1,22 @@
+[
+  {
+    "barcode": "9300657006629",
+    "name": "Coca-Cola 375mL Can",
+    "description": "Aluminum can, 10c refund"
+  },
+  {
+    "barcode": "9300657079464",
+    "name": "Coca-Cola 375mL Can",
+    "description": "PET bottle, 10c refund"
+  },
+  {
+    "barcode": "9310047000010",
+    "name": "Mount Franklin 600mL",
+    "description": "PET bottle, 10c refund"
+  },
+  {
+    "barcode": "9300675036337",
+    "name": "Bundaberg Ginger Beer 375mL",
+    "description": "Glass bottle, 10c refund"
+  }
+]
